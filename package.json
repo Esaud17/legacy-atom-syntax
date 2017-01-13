@@ -1,0 +1,14 @@
+{
+  "name": "legacy-atom-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "This a modified Riari theme And modified conversion of Dayle Rees' Tron Legacy for TextMate.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Esaud17/legacy-atom-syntax.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">1.13.0"
+  }
+}
